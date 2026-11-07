@@ -2,7 +2,7 @@
 
 # Subrata Sarkar
 
-**Embedded Systems Engineer** · firmware that behaves, on time, every run
+**Embedded Systems Engineer** 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-subrata05.github.io-8BD3AD?style=flat-square)](https://subrata05.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-subratasarkar--ss-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subratasarkar-ss/)
